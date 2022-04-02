@@ -4,10 +4,8 @@ Overview of the school district analysis: As per a school district query, the ob
 # Results:
 
 ## How is the district summary affected?
-Original Analysis:  
-![image](https://user-images.githubusercontent.com/100442163/161381965-dee665d9-179c-45bc-a720-1ed479942cca.png)
-Adjusted Analysis:
-![image](https://user-images.githubusercontent.com/100442163/161381990-e9b87a83-460e-4dd5-a975-eea9cbb01fb9.png)
+Original Analysis:![image](https://user-images.githubusercontent.com/100442163/161381965-dee665d9-179c-45bc-a720-1ed479942cca.png)
+Adjusted Analysis:![image](https://user-images.githubusercontent.com/100442163/161381990-e9b87a83-460e-4dd5-a975-eea9cbb01fb9.png)
 When comparing the two charts, removing less than 500 test scores had a nominal impact on the almost 40,000 student data set. The change was less than a 1% difference and the numbers would still round to the same whole number.
 
 ## How is the school summary affected?
